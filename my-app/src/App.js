@@ -1,6 +1,6 @@
-import ProfileCard from './components/ProfileCard.js'
+import ProfileCard from './components/ProfileCard.js';
 
-// import './App.css';
+import './App.css';
 
 const profileData = [
   {
@@ -21,12 +21,6 @@ const profileData = [
     jobTitle: 'Nurse',
     bio: 'Dedicated to patient care and well-being.',
   },
-  {
-    image:"./images/car1.jpg",
-    name: 'John Doe',
-    jobTitle: 'Car Salesman',
-    bio: 'Expert in matching customers with their perfect vehicles.',
-  }
 
 ];
 

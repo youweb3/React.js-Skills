@@ -1,4 +1,5 @@
 import React from 'react';
+import './ProfileCard.css';
 
 function ProfileCard({image, name, jobTitle, bio}){
     return(
